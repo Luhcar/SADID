@@ -1,0 +1,114 @@
+{
+    "DataSurat": [
+      {
+        "id": "1",
+        "kode_surat": "SM1123s-130993",
+        "asal_surat": "PT. Yunnan Resources",
+        "jenis_surat": "Resmi",
+        "tanggal_surat": "2025-01-23",
+        "penerima": "Axel",
+        "status": "Keluar"
+      },
+      {
+        "id": "2",
+        "kode_surat": "SM-004",
+        "asal_surat": "PT Telekomunikasi Indonesia (Persero)",
+        "jenis_surat": "Biasa",
+        "tanggal_surat": "2025-01-10",
+        "penerima": "Axel",
+        "status": "Masuk"
+      },
+      {
+        "id": "3",
+        "kode_surat": "SM-005",
+        "asal_surat": "PT Bank Negara Indonesia (Persero) Tbk",
+        "jenis_surat": "Penting",
+        "tanggal_surat": "2025-01-8",
+        "penerima": "Axel",
+        "status": "Keluar"
+      },
+      {
+        "id": "4",
+       "kode_surat": "SM-005",
+        "asal_surat": "PT. XYZ",
+        "jenis_surat": "Penting",
+        "tanggal_surat": "2025-01-18",
+        "penerima": "Axel",
+        "status": "Masuk"
+      }
+    ],
+
+    "DataSKtugas": [
+        {
+            "id": "1",
+            "nrp_pegawai": "13225",
+            "nama_pegawai": "Rizky Ramadhani",
+            "deskripsi": "Tugas ke PT. Mas Putra",
+            "tanggal": "2025-01-23"
+          },
+          {
+            "id": "2",
+            "nrp_pegawai": "13856",
+            "nama_pegawai": "Rachul Indra",
+            "deskripsi": "Tugas ke PT. Pertamina",
+            "tanggal": "2024-02-02"
+          },
+          {
+            "id": "3",
+            "nrp_pegawai": "13907",
+            "nama_pegawai": "Andi Prabandaru",
+            "deskripsi": "Tugas ke POLRES Demak",
+            "tanggal": "2024-02-02"
+          },
+          {
+            "id": "4",
+            "nrp_pegawai": "13453",
+            "nama_pegawai": "Dani Alves",
+            "deskripsi": "Tugas ke PT. Mas Putra",
+            "tanggal": "2024-02-02"
+          }
+    ],
+
+    "DataProfile": [
+        {
+            "type": "Jabatan",
+            "items": [
+              {
+                "title": "Nama Jabatan",
+                "status": "Aktif",
+                "masaJabatan": "2 Tahun",
+                "tanggalMulai": "01 Jan 2020",
+                "tanggalBerakhir": "31 Des 2021"
+              },
+              {
+                "title": "Nama Jabatan",
+                "status": "Berakhir",
+                "masaJabatan": "1 Tahun",
+                "tanggalMulai": "01 Jan 2019",
+                "tanggalBerakhir": "31 Des 2019"
+              }
+            ]
+          },
+          {
+            "type": "Pangkat",
+            "items": [
+              {
+                "title": "Nama Pangkat",
+                "status": "Aktif",
+                "masaJabatan": "3 Tahun",
+                "tanggalMulai": "01 Jan 2018",
+                "tanggalBerakhir": "31 Des 2020"
+              },
+              {
+                "title": "Nama Pangkat",
+                "status": "Berakhir",
+                "masaJabatan": "2 Tahun",
+                "tanggalMulai": "01 Jan 2016",
+                "tanggalBerakhir": "31 Des 2017"
+              }
+            ]
+          }
+    ]
+
+  }
+  
